@@ -1,0 +1,33 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.box1 {
+  height: 300px;
+  background-image: url(img/airport.jpg);
+  background-size: cover;
+  background-position: center;
+}
+
+.box2 {
+  height: 300px;
+  background-image: url(img/asia.jpg);
+  background-size: contain;
+  background-position: center;
+}
+
+.box3 {
+  height: 300px;
+  background-image: url(img/forest.jpg);
+  background-size: contain;
+  background-position: center;
+}
+
+.box4 {
+  height: 300px;
+  background-image: url(img/italy.jpg);
+  background-size: cover;
+  background-position: center;
+}
